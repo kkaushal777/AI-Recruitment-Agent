@@ -6,7 +6,9 @@ RecruiterOS redefines the hiring process by replacing keyword-based ATS filters 
 
 Unlike traditional tools, RecruiterOS includes an ethical "Bias Blocker" (Blind Hiring Mode) that dynamically anonymizes personal data to ensure merit-based scoring. It features a "Deep Reasoning Gap Map" that identifies missing skills and generates tailored interview questions, and a "Smart Pipeline" that automatically organizes candidates into a Kanban board based on their fit scores. From catching "buzzword stuffing" with its Integrity Check to generating instant handoff emails, RecruiterOS turns recruitment into a strategic, data-driven command center.
 
-![RecruiterOS UI](./screenshot.png)
+![RecruiterOS UI]
+<img width="1902" height="817" alt="image" src="https://github.com/user-attachments/assets/8f97c971-db1f-4bba-a23c-833973276e7f" />
+
 
 ## Key Features
 
