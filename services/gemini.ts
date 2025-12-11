@@ -184,7 +184,7 @@ export const sendChatMessage = async (
   context?: string
 ): Promise<string> => {
   try {
-    const systemInstruction = `You are a helpful AI assistant inside a recruitment application called "RecruitAI".
+    const systemInstruction = `You are a helpful AI assistant inside a recruitment application called "RecruiterOS".
     You have access to the current candidate pipeline data.
     
     ${context ? `CURRENT CANDIDATE DATA (Use this to answer questions):\n${context}\n\nINSTRUCTIONS:\n- You can compare candidates, summarize their strengths, or suggest interview questions based on their profiles.\n- If the user asks about something not in the data, just say you don't know.` : ''}`;

@@ -138,7 +138,7 @@ const App: React.FC = () => {
             <Sparkles className="w-5 h-5 text-white" />
           </div>
           <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400 hidden md:inline">
-            Recruit<span className="text-blue-400">AI</span>
+            Recruiter<span className="text-blue-400">OS</span>
           </span>
         </div>
 
@@ -191,7 +191,10 @@ const App: React.FC = () => {
       </nav>
 
       {/* Main Content */}
-      <main className="flex-1 pt-24 p-4 md:p-6 lg:p-8 max-w-[1600px] mx-auto w-full h-[100dvh] flex flex-col min-h-0">
+      <main 
+        className="flex-1 pt-20 md:!pt-40 p-4 md:p-6 lg:p-8 max-w-[1600px] mx-auto w-full h-[100dvh] flex flex-col min-h-0"
+        style={{ paddingTop: '50px' }}
+      >
         
         {activeTab === 'pipeline' ? (
            <PipelineBoard 

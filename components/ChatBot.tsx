@@ -97,8 +97,8 @@ const ChatBot: React.FC<ChatBotProps> = ({ candidates }) => {
                 <Bot className="w-5 h-5 text-white" />
               </div>
               <div>
-                <h3 className="font-semibold text-white text-sm">AI Assistant</h3>
-                <p className="text-xs text-gray-400">Powered by Gemini 1.5 Pro</p>
+                <h3 className="font-semibold text-white text-sm">RecruiterOS</h3>
+                <p className="text-xs text-gray-400">Powered by Gemini 3.0 Pro</p>
               </div>
             </div>
             <button 

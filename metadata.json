@@ -1,5 +1,5 @@
 {
-  "name": "AI Recruitment Agent",
-  "description": "A modern, AI-powered recruitment assistant that analyzes resume fit against job descriptions and generates targeted interview scripts.",
+  "name": "RecruiterOS",
+  "description": "The Multimodal Recruitment Command Center that analyzes resume fit against job descriptions and generates targeted interview scripts.",
   "requestFramePermissions": []
 }
